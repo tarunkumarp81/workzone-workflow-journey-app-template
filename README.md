@@ -17,7 +17,7 @@ The UI Integration card can be configured after deployment.  See the HOT-TO guid
 
 ## Download and Installation
 
-The template application and workflow should be cloned into a workspace opened in Businass Application Studio.  The location to be cloned is
+The template application and workflow should be cloned into a workspace opened in Business Application Studio.  The location to be cloned is
 
 ```
 https://github.com/SAP-samples/workzone-workflow-journey-app-template.git
