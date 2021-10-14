@@ -13,7 +13,7 @@ The template application and workflow are designed to be deployed into SAP Work 
 
 You have created the correct Workflow_API destination in the relevant Cloud Foundry subaccount.
 
-The UI Integration card can be configured after deployment.  See the HOT-TO guide for more details.
+The UI Integration card can be configured after deployment.  See the HOW-TO guide for more details.
 
 ## Download and Installation
 
